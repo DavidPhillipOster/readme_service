@@ -11,7 +11,7 @@ ReadMe  - macOS service to, in a singe click, open or create a ReadMe file in th
 
 ## To Install:
 
-* from the **Products** group in Xcode's **Product Navigator** select ![]([images/icon_64.png) `ReadMe.service` and right-click to **Show in Finder** In the Finder, put ![](images/icon_64.png)  `ReadMe.service` in your `Library/Services` directory.
+* from the **Products** group in Xcode's **Product Navigator** select ![](images/icon_64.png) `ReadMe.service` and right-click to **Show in Finder** In the Finder, put ![](images/icon_64.png)  `ReadMe.service` in your `Library/Services` directory.
 
 ## To Use:
 
