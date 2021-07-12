@@ -1,0 +1,13 @@
+.DS_Store
+bin/*
+gen/*
+*.class
+*.apk
+*.jar
+*.dex
+*.dSYM
+*.o
+.hg/*
+.hgignore
+xcuserdata/*
+.xcworkspace
